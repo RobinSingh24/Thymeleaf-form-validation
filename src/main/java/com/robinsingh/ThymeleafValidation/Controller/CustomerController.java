@@ -1,5 +1,6 @@
-package com.robinsingh.ThymeleafValidation.entity;
+package com.robinsingh.ThymeleafValidation.Controller;
 
+import com.robinsingh.ThymeleafValidation.entity.Customer;
 import jakarta.validation.Valid;
 import org.springframework.beans.propertyeditors.StringTrimmerEditor;
 import org.springframework.stereotype.Controller;
